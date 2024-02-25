@@ -1,0 +1,1 @@
+Ma dio cane, ficcati una ciabatta su per il culo succhia cazzi dei mafiosi di merda. Ma va a vivere a Palermo se fai tanto il figo razza di pezzente mafioso del cazzo. Ma madonna rachitica etrusca, vatti a scopare Riina a sto punto e stà zitto.

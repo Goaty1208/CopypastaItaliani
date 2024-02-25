@@ -1,0 +1,8 @@
+Ieri ho incontrato Alberto Angela al supermercato
+
+Ieri ho incontrato Alberto Angela al supermercato sotto casa.
+Gli ho detto quanto fosse bello incontrarlo di persona, ma non volevo fare l'idiota e disturbarlo per chiedergli delle foto o altro.
+Mi ha detto: "Oh, come stai facendo adesso?". Mi ha preso alla sprovvista, e sono riuscito solo a rispondere con un "Eh?", ma lui continuava a interrompermi e a dire "Eh? Eh? Eh? Eh?" e a chiudere la mano davanti alla mia faccia. Mi sono allontanato e ho continuato a fare la spesa, e l'ho sentito ridacchiare mentre me ne andavo. Quando sono andato alla cassa per pagare l'ho visto che cercava di uscire dalla porta con una quindicina di Kinder Pinguì in mano senza pagare.
+La commessa alla cassa é stata molto gentile e professionale, e ha detto: "Signore, guardi che deve pagare quei Kinder Pinguì". All'inizio faceva finta di essere stanco e di non sentirla, ma alla fine si è voltato e li ha portati alla cassa.
+Quando lei ha preso uno dei Kinder Pinguì e ha iniziato a scannerizzarlo più volte, lui l'ha fermata e le ha detto di scannerizzarle ognuna singolarmente "per evitare qualsiasi infetterenza elettrica", poi si è girato e mi ha fatto l'occhiolino. Non credo che quella parola esista. E anche dopo che lei ha scansionato ogni Kinder Pinguì e ha iniziato a dire il prezzo, lui continuava a interromperla sbadigliando molto forte.
+Dopo aver pagato le Kinder Pinguì ha proceduto a lasciare il negozio e a buttarle tutte nella spazzatura. Da allora non l'ho più visto.
