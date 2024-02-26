@@ -133,14 +133,86 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciabatta mafiosa.md",
+                "file": "A te scrocchia il cazzo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56587d05044b0a1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Primo segotto mattutino della mia vita.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7600edb495d591a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A te scrocchia il cazzo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2eb03c8c2399c43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monopolio delle schiacciatine.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b963e8f430e7f11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dio immondizia.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db00b21adf5f2e0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Glorificazione generazionale.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "795cc523b5b3e0fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tinder in Umbria.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -206,7 +278,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ciabatta mafiosa.md",
+            "file": "Tinder in Umbria.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -223,7 +295,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ciabatta mafiosa.md",
+            "file": "Tinder in Umbria.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -235,7 +307,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ciabatta mafiosa.md"
+            "file": "Tinder in Umbria.md"
           }
         }
       }
@@ -252,19 +324,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5386e6c41dd84f84",
+  "active": "795cc523b5b3e0fe",
   "lastOpenFiles": [
-    "Alberto Angela al supermercato.md",
-    "Ciabatta mafiosa.md",
-    "Untitled",
-    "Evento accidentale.md",
+    "Glorificazione generazionale.md",
+    "Tinder in Umbria.md",
+    "Dio immondizia.md",
+    "Monopolio delle schiacciatine.md",
     "A te scrocchia il cazzo.md",
+    "Evento accidentale.md",
+    "Pinocchio realistico.md",
+    "Io odio le stampanti.md",
+    "Primo segotto mattutino della mia vita.md",
+    "App smartphone.md",
+    "Ciabatta mafiosa.md",
+    "Alberto Angela al supermercato.md",
+    "Untitled",
     "Ano femminile.md",
     "Via Brombeis.md",
     "Sborra infinita.md",
     "Sì, esatto. Io scopo..md",
     "Classe.md",
-    "Ho appena scopato tua madre.md",
-    "App smartphone.md"
+    "Ho appena scopato tua madre.md"
   ]
 }
